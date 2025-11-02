@@ -1,0 +1,5 @@
+{
+  "name": "Almosafer Clone - Travel Booking",
+  "description": "A modern, responsive travel booking website inspired by Almosafer, allowing users to search for flights and hotels. Built with React, TypeScript, and Tailwind CSS for a premium user experience.",
+  "requestFramePermissions": []
+}
